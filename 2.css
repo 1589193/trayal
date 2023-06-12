@@ -1,0 +1,24 @@
+h1 {
+    background-color: blue;
+    color: chartreuse;
+    margin-top: 10px;
+    padding: 20;
+
+}
+p{
+ background-color: chartreuse;
+ color: blueviolet;
+ margin-top:100 ;
+
+}
+.mypara1 {
+    background-color: red;
+    color: cornsilk;
+    margin-top:80px ;
+}
+.mypara2{
+    background-color: darkorange;
+    color:green;
+
+}
+ 
